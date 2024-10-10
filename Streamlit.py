@@ -108,7 +108,7 @@ with tab3:
  
 with st.sidebar:
     st.title('PROYEK AKHIR DICODING - Belajar Analisis Data dengan Python ')
-    st.text('NAMA : HANIF ADITIA SOFIAN')
-    st.text('EMAIL BANGKIT : m012d4ky3007@bangkit.academy')
-    st.text('ID DICODING : hanifaditia')
+    st.text('NAMA : ANNISSA CLARYTA')
+    st.text('KELAS: 4IA14')
+    st.text('NPM: 50421177')
     
