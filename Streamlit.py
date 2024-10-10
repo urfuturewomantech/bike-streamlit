@@ -7,7 +7,7 @@ import calendar
 
 
 #LOAD DATASET
-df_day = pd.read_csv("./Bike Sharing/Dataset.csv")
+df_day = pd.read_csv("Dataset.csv")
 
 
 def pertanyaan1(df):
