@@ -107,7 +107,7 @@ with tab3:
     st.text_area("CONCLUSION","Angka penyewaan oleh penyewa yang teregistrasi lebih tinggi dibandingkan penyewa casual di setiap bulan pada tahun 2011. Penyewaan oleh penyewa yang teregistrasi memiliki kenaikan yang tinggi pada bulan maret hingga mei dan memiliki kecenderungan turun pada bulan juni hingga desember. begitu juga penyewaan sepeda yang dilakukan oleh penyewa casual yang cenderung naik pada bulan januari hingga juni dan mengalami penurunan dari bulan juli hingga desember.",disabled = True,height =150)
  
 with st.sidebar:
-    st.title('PROYEK AKHIR DICODING - Belajar Analisis Data dengan Python ')
+    st.title('PROJEK INDIVIDU RPL2 ')
     st.text('NAMA : ANNISSA CLARYTA')
     st.text('KELAS: 4IA14')
     st.text('NPM: 50421177')
